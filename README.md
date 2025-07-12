@@ -21,6 +21,8 @@ DEMO:
 
 🧰 Built using a modern tech stack (React + Vite)
 
+
+
 🛠️ Getting Started
 Prerequisites
 Node.js (v16 or higher)
@@ -53,6 +55,8 @@ npm run dev
 yarn dev
 Open your browser and visit:
 http://localhost:5173
+
+
 
 📁 Project Structure
 bash
@@ -92,6 +96,7 @@ For type safety, you can migrate to TypeScript.
 
 Refer to the official Vite + React + TypeScript template.
 
+
 🚀 Deployment
 Build the app:
 
@@ -113,6 +118,7 @@ Netlify
 
 GitHub Pages
 
+
 🤝 Contributing
 Contributions are welcome!
 Feel free to:
@@ -122,6 +128,7 @@ Fork the repo
 Open issues
 
 Submit pull requests
+
 
 📄 License
 This project is licensed under the MIT License.
