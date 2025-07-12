@@ -1,0 +1,3 @@
+go to folder redux-class  by using command -     cd redux-class
+
+2. now run command-   npm run dev
